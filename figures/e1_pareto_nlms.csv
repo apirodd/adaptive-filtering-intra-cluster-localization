@@ -1,0 +1,37 @@
+regime,policy,update_fraction,nmse
+Quasi-static terminal,always,1.0000,0.000044
+Quasi-static terminal,never_frozen,0.0000,0.004120
+Quasi-static terminal,never_wiener,0.0000,0.000124
+Quasi-static terminal,gated@0.002,0.0153,0.000717
+Quasi-static terminal,gated@0.005,0.0044,0.001322
+Quasi-static terminal,gated@0.01,0.0017,0.001962
+Quasi-static terminal,gated@0.02,0.0003,0.003468
+Quasi-static terminal,gated@0.05,0.0001,0.004373
+Quasi-static terminal,gated@0.1,0.0000,0.004120
+Walking terminal,always,1.0000,0.001680
+Walking terminal,never_frozen,0.0000,0.109335
+Walking terminal,never_wiener,0.0000,0.007203
+Walking terminal,gated@0.002,0.3924,0.002383
+Walking terminal,gated@0.005,0.2268,0.003688
+Walking terminal,gated@0.01,0.1205,0.006369
+Walking terminal,gated@0.02,0.0532,0.010986
+Walking terminal,gated@0.05,0.0150,0.022643
+Walking terminal,gated@0.1,0.0052,0.037348
+10 mobile scatterers,always,1.0000,0.002182
+10 mobile scatterers,never_frozen,0.0000,0.108986
+10 mobile scatterers,never_wiener,0.0000,0.008993
+10 mobile scatterers,gated@0.002,0.4554,0.002850
+10 mobile scatterers,gated@0.005,0.2729,0.004149
+10 mobile scatterers,gated@0.01,0.1547,0.006621
+10 mobile scatterers,gated@0.02,0.0769,0.011058
+10 mobile scatterers,gated@0.05,0.0251,0.023482
+10 mobile scatterers,gated@0.1,0.0102,0.039535
+30 mobile scatterers,always,1.0000,0.006755
+30 mobile scatterers,never_frozen,0.0000,0.139001
+30 mobile scatterers,never_wiener,0.0000,0.059064
+30 mobile scatterers,gated@0.002,0.5779,0.007226
+30 mobile scatterers,gated@0.005,0.4283,0.008279
+30 mobile scatterers,gated@0.01,0.3027,0.010261
+30 mobile scatterers,gated@0.02,0.1881,0.014439
+30 mobile scatterers,gated@0.05,0.0752,0.027143
+30 mobile scatterers,gated@0.1,0.0323,0.045899
