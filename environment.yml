@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Adaptive Filtering at the User Equipment for Intra-Cluster Localization in User-Centric Networks"
+message: "If you use this software, please cite this work."
+type: software
+
+authors:
+  - family-names: Piroddi
+    given-names: Andrea
+  - family-names: Kanakis
+    given-names: Triantafyllos
+
+repository-code: "https://github.com/YOUR-USERNAME/adaptive-filtering-intra-cluster-localization"
+
+license: MIT
+
+version: 1.0.0
+
+abstract: >
+  Software and experimental material for UE-side adaptive filtering,
+  CSI prediction and intra-cluster localization in user-centric networks.
