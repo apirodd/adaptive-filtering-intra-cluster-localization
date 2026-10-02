@@ -234,7 +234,7 @@ If you use this code, please cite both the paper and the archived release:
   title   = {UE-side adaptive filtering for intra-cluster localization:
              simulation and measurement pipeline},
   year    = {2026},
-  doi     = {10.5281/zenodo.XXXXXXX},
+  doi     = {10.5281/zenodo.23107556},
   url     = {https://github.com/apirodd/ue-adaptive-localization}
 }
 ```
