@@ -12,7 +12,7 @@ millimeter-wave localization results, and the three figures. The table in
 that computed it.
 
 <!-- TODO before release: replace with the Zenodo badge minted from the first GitHub release -->
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23107556.svg)](https://doi.org/10.5281/zenodo.23107556)
 
 ---
 
